@@ -1,2 +1,5 @@
 Name:Kevin kirt bagante
 date: 02/02/2026
+Reflection
+From this activity, I learned how to create a project folder and initialize it as a Git repository. I also learned how to create a file, add it to Git, commit changes, and push the project to GitHub. This activity helped me understand the basic workflow of Git and how GitHub is used to store and manage projects online.
+
